@@ -1,5 +1,5 @@
 /* add your CSS here */
-#background_color{background-color: rgb(200,230,250);margin: 3px;}
+#background_color{background-color: rgb(219, 235, 245);margin: 3px;}
 
 span{font-weight: bold;color: blue;}
 
@@ -19,8 +19,8 @@ img {width: 300px;display: block;margin: 5px left;padding: 10px;}
 
 
 h3 {font-family: sans-serif;font-weight: bolder;border-width: medium;
-  color: rgb(200,120,50);text-shadow: 1px 2px;border-style: solid;
+  color: rgb(187, 139, 97);text-shadow: 1px 2px;border-style: solid;
   padding: 2px;
 }
 
-.move-me {right: 40px;position: relative;}
+.move-me {right: 40px;position: left;}
